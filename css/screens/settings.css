@@ -23,3 +23,12 @@
 .bottom-list {
   margin-top: 30px;
 }
+
+.bottom-list__setting .new {
+  padding: 5px;
+  color: white;
+  border-radius: 50%;
+  background-color: tomato;
+  font-size: 14px;
+  font-weight: 600;
+}
