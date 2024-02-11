@@ -15,3 +15,11 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.top-list__setting:last-child {
+  padding-bottom: 50px;
+}
+
+.bottom-list {
+  margin-top: 30px;
+}
